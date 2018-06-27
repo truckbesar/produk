@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.2">Jekyll</generator><link href="http://localhost:4000/produk/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/produk/" rel="alternate" type="text/html" /><updated>2018-06-27T15:12:33+07:00</updated><id>http://localhost:4000/produk/</id><title type="html">Multi Agroindustri</title><subtitle>PT. Firma Agros Terra</subtitle><entry><title type="html">Building Department</title><link href="http://localhost:4000/produk/building/" rel="alternate" type="text/html" title="Building Department" /><published>2014-03-05T00:00:00+07:00</published><updated>2014-03-05T00:00:00+07:00</updated><id>http://localhost:4000/produk/building</id><content type="html" xml:base="http://localhost:4000/produk/building/">&lt;center&gt;&lt;img src=&quot;/produk/images/building.jpg&quot;&gt;&lt;/center&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Lahmuna Fresh Beef Supplier</title><link href="http://localhost:4000/produk/lahmuna/" rel="alternate" type="text/html" title="Lahmuna Fresh Beef Supplier" /><published>2014-03-04T00:00:00+07:00</published><updated>2014-03-04T00:00:00+07:00</updated><id>http://localhost:4000/produk/lahmuna</id><content type="html" xml:base="http://localhost:4000/produk/lahmuna/">&lt;center&gt;&lt;img src=&quot;/produk/images/lahmuna.jpg&quot;&gt;&lt;/center&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Horticulture Department</title><link href="http://localhost:4000/produk/horticulture/" rel="alternate" type="text/html" title="Horticulture Department" /><published>2014-03-03T00:00:00+07:00</published><updated>2014-03-03T00:00:00+07:00</updated><id>http://localhost:4000/produk/horticulture</id><content type="html" xml:base="http://localhost:4000/produk/horticulture/">&lt;style&gt;
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+&lt;/style&gt;
+
+&lt;img src=&quot;/produk/images/philodendron.jpg&quot;&gt;&lt;/img&gt;
+&lt;center&gt;&lt;a href=&quot;/produk/kontaklokasi&quot; class=&quot;button&quot;&gt;Hubungi Kami&lt;/a&gt;&lt;/center&gt;
+&lt;br&gt;&lt;br&gt;
+
+&lt;img src=&quot;/produk/images/pala.jpg&quot;&gt;&lt;/img&gt;
+&lt;center&gt;&lt;a href=&quot;/produk/kontaklokasi&quot; class=&quot;button&quot;&gt;Hubungi Kami&lt;/a&gt;&lt;/center&gt;
+&lt;br&gt;&lt;br&gt;
+
+&lt;img src=&quot;/produk/images/ubicilembu.jpg&quot;&gt;&lt;/img&gt;
+&lt;center&gt;&lt;a href=&quot;/produk/kontaklokasi&quot; class=&quot;button&quot;&gt;Hubungi Kami&lt;/a&gt;&lt;/center&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Profil Kami</title><link href="http://localhost:4000/produk/profil/" rel="alternate" type="text/html" title="Profil Kami" /><published>2014-03-02T00:00:00+07:00</published><updated>2014-03-02T00:00:00+07:00</updated><id>http://localhost:4000/produk/profil</id><content type="html" xml:base="http://localhost:4000/produk/profil/">&lt;center&gt;&lt;img src=&quot;/produk/images/profil1.jpg&quot;&gt;&lt;/center&gt;
+&lt;br&gt;
+&lt;p style=&quot;text-align: justify; text-indent: 0.5in&quot;&gt;PT. Firma Agros Terra adalah perusahaan yang bergerak di bidang Multi Agro Industri. Saat ini kami fokus di tiga bidang usaha yaitu cattle breeding (penggemukan sapi), fish cultivation (perikanan), dan horticulture (hortikultura). Perusahaan kami berlokasi di kabupaten Sukabumi. Perusahaan ini dikelola oleh Radja Panutan yang saat ini menjalani pendidikan perguruan tinggi di jurusan Agribisnis, Institut Pertanian Bogor.&lt;/p&gt;
+&lt;br&gt;
+&lt;center&gt;&lt;img src=&quot;/produk/images/profil2.jpg&quot;&gt;&lt;/center&gt;
+&lt;br&gt;
+&lt;p style=&quot;text-align: justify;text-indent: 0.5in&quot;&gt;Hobinya dalam agribisnis sejak kecil membuat Radja tertarik dalam mendalami Agribisnis di berbagai bidang.&lt;/p&gt;
+&lt;br&gt;
+&lt;center&gt;&lt;img src=&quot;/produk/images/profil3.jpg&quot;&gt;&lt;/center&gt;
+&lt;br&gt;
+&lt;p style=&quot;text-align: justify;text-indent: 0.5in&quot;&gt;Kami juga terus mengupayakan untuk menaikkan harga beli dengan mulai membuka di sektor pengolahan untuk menaikkan kesejahteraan petani&lt;/p&gt;
+&lt;br&gt;
+&lt;center&gt;&lt;img src=&quot;/produk/images/profil4.jpg&quot;&gt;&lt;/center&gt;</content><author><name></name></author><summary type="html">PT. Firma Agros Terra adalah perusahaan yang bergerak di bidang Multi Agro Industri. Saat ini kami fokus di tiga bidang usaha yaitu cattle breeding (penggemukan sapi), fish cultivation (perikanan), dan horticulture (hortikultura). Perusahaan kami berlokasi di kabupaten Sukabumi. Perusahaan ini dikelola oleh Radja Panutan yang saat ini menjalani pendidikan perguruan tinggi di jurusan Agribisnis, Institut Pertanian Bogor. Hobinya dalam agribisnis sejak kecil membuat Radja tertarik dalam mendalami Agribisnis di berbagai bidang. Kami juga terus mengupayakan untuk menaikkan harga beli dengan mulai membuka di sektor pengolahan untuk menaikkan kesejahteraan petani</summary></entry><entry><title type="html">Kontak</title><link href="http://localhost:4000/produk/kontaklokasi/" rel="alternate" type="text/html" title="Kontak" /><published>2014-03-02T00:00:00+07:00</published><updated>2014-03-02T00:00:00+07:00</updated><id>http://localhost:4000/produk/kontaklokasi</id><content type="html" xml:base="http://localhost:4000/produk/kontaklokasi/">&lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://use.fontawesome.com/releases/v5.0.13/css/all.css&quot; integrity=&quot;sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp&quot; crossorigin=&quot;anonymous&quot;&gt;
+&lt;script&gt;(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/id_ID/sdk.js#xfbml=1&amp;version=v3.0';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));&lt;/script&gt;
+
+&lt;style&gt;
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+&lt;/style&gt;
+
+&lt;section id=&quot;contact&quot;&gt;
+    &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-lg-8 col-lg-offset-2 text-center&quot;&gt;
+
+                &lt;hr class=&quot;primary&quot;&gt;
+                &lt;p&gt;Jika akan bekerjasama ataupun pemesanan produk bisa hubungi kami dalam diskusi via wa agar lebih responsif&lt;/p&gt;            &lt;a href=&quot;tel:+6285280078911&quot;&gt;
+&lt;div style=&quot;font-size:2em; color:Green&quot;&gt;                
+&lt;i class=&quot;fab fa-whatsapp&quot;&gt;&lt;/i&gt;
+                0852 8007 8911 (Radja)
+ &lt;/div&gt;          &lt;/a&gt;
+&lt;br&gt;        
+            &lt;a href=&quot;mailto:multiagroindustri@gmail.com&quot;&gt;
+&lt;div style=&quot;font-size:1em; color:Green&quot;&gt;
+&lt;i class=&quot;fas fa-envelope-square&quot;&gt;&lt;/i&gt;
+                multiagroindustri@gmail.com&lt;/div&gt;
+            &lt;/a&gt;
+&lt;br&gt;        
+    &lt;a href=&quot;https://www.facebook.com/PT-Firma-Agros-Terra-253705791866908/&quot;&gt;
+            &lt;div style=&quot;font-size:1em; color:green&quot;&gt;&lt;i class=&quot;fab fa-facebook&quot;&gt;&lt;/i&gt;
+            PT. Firma Agros Terra&lt;/div&gt;
+            &lt;/a&gt;
+&lt;br&gt;&lt;br&gt;
+
+&lt;center&gt;
+&lt;div class=&quot;fb-page&quot; data-href=&quot;https://www.facebook.com/PT-Firma-Agros-Terra-253705791866908/&quot; data-small-header=&quot;false&quot; data-adapt-container-width=&quot;true&quot; data-hide-cover=&quot;false&quot; data-show-facepile=&quot;true&quot;&gt;&lt;blockquote cite=&quot;https://www.facebook.com/PT-Firma-Agros-Terra-253705791866908/&quot; class=&quot;fb-xfbml-parse-ignore&quot;&gt;&lt;a href=&quot;https://www.facebook.com/PT-Firma-Agros-Terra-253705791866908/&quot;&gt;PT. Firma Agros Terra&lt;/a&gt;&lt;/blockquote&gt;&lt;/div&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;h2 align=&quot;left&quot; id=&quot;lokasi&quot;&gt;Lokasi&lt;/h2&gt;
+&lt;hr class=&quot;primary&quot;&gt;
+&lt;center&gt;Jl. Pd. Leungsir, Cimahi, Cicantayan, Sukabumi, Jawa Barat 43155&lt;/center&gt;&lt;br&gt;
+&lt;div class=&quot;map-responsive&quot;&gt;
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.7888573648065!2d106.8560139509463!3d-6.9158289949784875!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNsKwNTQnNTcuMCJTIDEwNsKwNTEnMjkuNiJF!5e0!3m2!1sid!2sid!4v1527673022854&quot; width=&quot;350&quot; height=&quot;350&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/center&gt;
+&lt;/div&gt;    
+
+
+&lt;/section&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Fish Cultivation Department</title><link href="http://localhost:4000/produk/fishcultivation/" rel="alternate" type="text/html" title="Fish Cultivation Department" /><published>2014-03-02T00:00:00+07:00</published><updated>2014-03-02T00:00:00+07:00</updated><id>http://localhost:4000/produk/fishcultivation</id><content type="html" xml:base="http://localhost:4000/produk/fishcultivation/">&lt;style&gt;
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+&lt;/style&gt;
+&lt;img src=&quot;/produk/images/lele.jpg&quot;&gt;&lt;/img&gt;
+&lt;h1&gt;Harga lele dihitung per-kg sebesar Rp16000&lt;/h1&gt;
+&lt;center&gt;&lt;a href=&quot;/produk/kontaklokasi&quot; class=&quot;button&quot;&gt;Hubungi Kami&lt;/a&gt;&lt;/center&gt;</content><author><name></name></author><summary type="html">Harga lele dihitung per-kg sebesar Rp16000 Hubungi Kami</summary></entry><entry><title type="html">Galeri</title><link href="http://localhost:4000/produk/galeri/" rel="alternate" type="text/html" title="Galeri" /><published>2014-03-01T00:00:00+07:00</published><updated>2014-03-01T00:00:00+07:00</updated><id>http://localhost:4000/produk/galeri</id><content type="html" xml:base="http://localhost:4000/produk/galeri/">&lt;head&gt;
+  &lt;style&gt;
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 350px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;h2&gt;Sapi&lt;/h2&gt;
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/produk/kontaklokasi&quot;&gt;
+    &lt;img src=&quot;/produk/images/sapi2.jpg&quot;  width=&quot;100%&quot; height=&quot;100%&quot;&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/produk/kontaklokasi&quot;&gt;
+    &lt;img src=&quot;/produk/images/limousin.jpg&quot;  width=&quot;350&quot; height=&quot;200&quot;&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/produk/kontaklokasi&quot;&gt;
+    &lt;img src=&quot;/produk/images/sapi3.jpg&quot;  width=&quot;100%&quot; height=&quot;100%&quot;&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/produk/kontaklokasi&quot;&gt;
+    &lt;img src=&quot;/produk/images/sapi6.jpg&quot;  width=&quot;350&quot; height=&quot;200&quot;&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/produk/kontaklokasi&quot;&gt;
+    &lt;img src=&quot;/produk/images/sapi4.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/produk/kontaklokasi&quot;&gt;
+    &lt;img src=&quot;/produk/images/sapi5.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;hr&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+&lt;h2&gt;Kambing&lt;/h2&gt;
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/produk/kontaklokasi&quot;&gt;
+    &lt;img src=&quot;/produk/images/garut.jpg&quot;  width=&quot;100%&quot; height=&quot;100%&quot;&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/produk/kontaklokasi&quot;&gt;
+    &lt;img src=&quot;/produk/images/kambing2.jpg&quot;  width=&quot;350&quot; height=&quot;200&quot;&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/produk/kontaklokasi&quot;&gt;
+    &lt;img src=&quot;/produk/images/kambing6.jpg&quot;  width=&quot;100%&quot; height=&quot;100%&quot;&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/produk/kontaklokasi&quot;&gt;
+    &lt;img src=&quot;/produk/images/kambing3.jpg&quot;  width=&quot;350&quot; height=&quot;200&quot;&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/produk/kontaklokasi&quot;&gt;
+    &lt;img src=&quot;/produk/images/kambing4.jpg&quot;  width=&quot;100%&quot; height=&quot;100%&quot;&gt;
+  &lt;/a&gt;
+
+&lt;/div&gt;
+
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/produk/kontaklokasi&quot;&gt;
+    &lt;img src=&quot;/produk/images/kambing5.jpg&quot;  width=&quot;350&quot; height=&quot;200&quot;&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;br&gt;</content><author><name></name></author><summary type="html">.button { background-color: #4CAF50; /* Green */ border: none; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; }</summary></entry><entry><title type="html">Cattle Breeding Department</title><link href="http://localhost:4000/produk/cattlebreeding/" rel="alternate" type="text/html" title="Cattle Breeding Department" /><published>2014-03-01T00:00:00+07:00</published><updated>2014-03-01T00:00:00+07:00</updated><id>http://localhost:4000/produk/cattlebreeding</id><content type="html" xml:base="http://localhost:4000/produk/cattlebreeding/">&lt;head&gt;
+  &lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js&quot;&gt;&lt;/script&gt;
+  &lt;script src=&quot;https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js&quot;&gt;&lt;/script&gt;
+&lt;style&gt;
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 350px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;img src=&quot;/produk/images/config.jpg&quot;&gt;&lt;/img&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;h1&gt; Harga sapi dihitung per-kg dengan harga Rp65000&lt;/h1&gt;
+&lt;hr&gt;
+Kami memberikan sapi dengan kualitas terbaik untuk anda. Saat ini kami memiliki empat jenis sapi yaitu limousine, simental, brahman dan angus. Berikut kami tampilkan berbagai jenis sapi yang kami miliki :
+&lt;h1&gt;Sapi&lt;/h1&gt;
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/produk/kontaklokasi&quot;&gt;
+    &lt;img src=&quot;/produk/images/simental.jpg&quot;  width=&quot;100%&quot; height=&quot;100%&quot;&gt;
+  &lt;/a&gt;
+  &lt;div class=&quot;desc&quot;&gt;Simental&lt;br&gt;600-800 kg&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/produk/kontaklokasi&quot;&gt;
+    &lt;img src=&quot;/produk/images/limousin.jpg&quot;  width=&quot;350&quot; height=&quot;200&quot;&gt;
+  &lt;/a&gt;
+  &lt;div class=&quot;desc&quot;&gt;Limousin&lt;br&gt;600-800 kg&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/produk/kontaklokasi&quot;&gt;
+    &lt;img src=&quot;/produk/images/angus.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;
+  &lt;/a&gt;
+&lt;div class=&quot;desc&quot;&gt;Angus&lt;br&gt;600-800 kg&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/produk/kontaklokasi&quot;&gt;
+    &lt;img src=&quot;/produk/images/brahman.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;
+  &lt;/a&gt;
+  &lt;div class=&quot;desc&quot;&gt;Brahman&lt;br&gt;600-800 kg&lt;/div&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;hr&gt;
+&lt;center&gt;&lt;a href=&quot;/produk/kontaklokasi&quot; class=&quot;button&quot;&gt;Hubungi Kami&lt;/a&gt;&lt;/center&gt;
+&lt;br&gt;
+&lt;center&gt;&lt;a href=&quot;/produk/galeri&quot; class=&quot;button&quot;&gt;Lihat Galeri&lt;/a&gt;&lt;/center&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;* &lt;i&gt;cara pembelian sapi kami dengan cara penimbangan bobot badan&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;** &lt;i&gt;semua harga yang tertera adalah perangko sukabumi&lt;/i&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;hr&gt;
+
+&lt;img src=&quot;/produk/images/config2.jpg&quot;&gt;&lt;/img&gt;
+Selain itu kami memiliki kambing dengan berbagai jenis yaitu Etawa, Benggala, Qurban dan Domba Garut. Berikut berbagai kambing yang kami miliki : 
+&lt;h1&gt;Kambing&lt;/h1&gt;
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/produk/kontaklokasi&quot;&gt;
+    &lt;img src=&quot;/produk/images/garut.jpg&quot;  width=&quot;100%&quot; height=&quot;100%&quot;&gt;
+  &lt;/a&gt;
+  &lt;div class=&quot;desc&quot;&gt;Domba Garut&lt;br&gt;25-30 kg&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/produk/kontaklokasi&quot;&gt;
+    &lt;img src=&quot;/produk/images/etawa.jpg&quot;  width=&quot;350&quot; height=&quot;200&quot;&gt;
+  &lt;/a&gt;
+&lt;div class=&quot;desc&quot;&gt;Etawa&lt;br&gt;25-30 kg&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/produk/kontaklokasi&quot;&gt;
+    &lt;img src=&quot;/produk/images/benggala.jpg&quot;  width=&quot;100%&quot; height=&quot;100%&quot;&gt;
+  &lt;/a&gt;
+ &lt;div class=&quot;desc&quot;&gt;Benggala&lt;br&gt;25-30 kg&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;/produk/kontaklokasi&quot;&gt;
+    &lt;img src=&quot;/produk/images/qurban.jpg&quot;  width=&quot;350&quot; height=&quot;200&quot;&gt;
+  &lt;/a&gt;
+&lt;div class=&quot;desc&quot;&gt;Qurban&lt;br&gt;25-30 kg&lt;/div&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;center&gt;&lt;a href=&quot;/produk/kontaklokasi&quot; class=&quot;button&quot;&gt;Hubungi Kami&lt;/a&gt;&lt;/center&gt;
+&lt;br&gt;
+&lt;center&gt;&lt;a href=&quot;/produk/galeri&quot; class=&quot;button&quot;&gt;Lihat Galeri&lt;/a&gt;&lt;/center&gt;
+&lt;p&gt;* &lt;i&gt;cara pembelian sapi kami dengan cara penimbangan bobot badan&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;** &lt;i&gt;semua harga yang tertera adalah perangko sukabumi&lt;/i&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;</content><author><name></name></author><summary type="html">.button { background-color: #4CAF50; /* Green */ border: none; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; }</summary></entry></feed>
